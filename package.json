@@ -1,0 +1,22 @@
+{
+  "name": "doubler-toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+      "url": "git+https://github.com/auroraug/doubler-toolkit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^9.1.2",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.2",
+    "puppeteer": "^21.10.0"
+  }
+}

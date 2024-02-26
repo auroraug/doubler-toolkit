@@ -41,6 +41,7 @@ The tool will prompt you to choose from various options to perform actions on th
 ## **Dependencies**
 
 ethers.js: A JavaScript library for interacting with the Ethereum blockchain and its ecosystem.
+
 Puppeteer: A Node.js library for controlling headless Chrome or Chromium instances, used for web scraping.
 
 

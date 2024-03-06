@@ -10,7 +10,16 @@
     "type": "git",
     "url": "https://github.com/auroraug/doubler-toolkit"
   },
-  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/auroraug/doubler-toolkit/issues"
+  },
+  "keywords": [
+    "blockchain",
+    "toolkit",
+    "interact",
+    "defi",
+    "crypto"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {

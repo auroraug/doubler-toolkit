@@ -1,6 +1,6 @@
 {
   "name": "doubler-toolkit",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/auroraug/doubler-toolkit"
+    "url": "https://github.com/auroraug/doubler-toolkit.git"
   },
   "bugs": {
     "url": "https://github.com/auroraug/doubler-toolkit/issues"

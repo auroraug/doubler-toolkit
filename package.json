@@ -1,6 +1,6 @@
 {
   "name": "doubler-toolkit",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -33,6 +33,6 @@
     "axios": "^1.6.7",
     "buffer": "^6.0.3",
     "webpack": "^5.89.0",
-		"webpack-cli": "^5.1.4"
+    "webpack-cli": "^5.1.4"
   }
 }
